@@ -6,6 +6,26 @@ In addition to meeting the proposed functional requirements, the project was tre
 
 ---
 
+## 🚀 How to Run
+
+To run this project locally:
+1. **Clone the repository**
+```bash```
+```git clone https://github.com/jeancarlosaps/NubankMobileTest.git```
+
+2.	Open the project in Xcode
+	•	Navigate to the cloned folder
+	•	Double-click NubankMobileTest.xcodeproj to open in Xcode
+
+3.	Select target device
+	•	Choose a simulator or a real device
+
+4.	Build & Run
+	•	Press Cmd + R
+
+This project targets iOS 16+ and was developed with the latest stable Xcode available at the time of commit.
+---
+
 ## 🛠 Technologies Used
 
 - **Swift**
